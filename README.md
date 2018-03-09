@@ -1,2 +1,8 @@
 # hello-world
-hello repo
+
+Hi!
+
+I'm a techy with an arts degree.
+Also an alien.
+
+
