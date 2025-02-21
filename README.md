@@ -2,7 +2,7 @@
 
 Hi!
 
-I'm a techy with an arts degree.
-Also an alien.
+I'm an award-winning IT specialist with an arts degree.
+Let's make waves!
 
 
